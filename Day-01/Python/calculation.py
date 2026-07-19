@@ -1,0 +1,10 @@
+a=10
+b=10
+sum=a+b
+diff=a-b
+multiply=a*b
+divide=a/b
+print("Sum:",sum)
+print("Difference:",diff)
+print("Multiplication:",multiply)
+print("Division:",divide)
